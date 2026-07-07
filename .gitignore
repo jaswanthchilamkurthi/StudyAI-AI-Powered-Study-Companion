@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+backend/.env
+.env
+
+# Uploaded files
+backend/uploads/
+
+# VS Code
+.vscode/
