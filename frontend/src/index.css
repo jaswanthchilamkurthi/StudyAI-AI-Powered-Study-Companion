@@ -1,0 +1,26 @@
+body{
+    background:#F8F6F7;
+    color:#2E2E2E;
+    font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+}
+
+.btn{
+    background:#800020;
+    color:white;
+    border:none;
+    padding:12px 24px;
+    border-radius:10px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.btn:hover{
+    background:#5C0013;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    padding:20px;
+}
