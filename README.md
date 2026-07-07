@@ -55,3 +55,9 @@ Mobile Application
 🎯 Objective
 
 StudyAI aims to simplify learning by reducing the time students spend creating notes and revision material. Instead of manually preparing summaries or quizzes, students can focus on understanding concepts while AI generates personalized study resources automatically.
+
+
+
+
+
+Study Ai Project Demo Video Link--https://drive.google.com/file/d/1H0YAFQvC-UF-SW-hAF621XrC1WblesSL/view?usp=sharing
